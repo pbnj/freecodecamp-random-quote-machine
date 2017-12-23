@@ -3,11 +3,11 @@
   "description": "freeCodeCamp - Random Quote Machine Challenge - https://www.freecodecamp.org/challenges/build-a-random-quote-machine",
   "version": "0.0.0",
   "dependencies": {
-    "react-dom": "16.0.0",
-    "react": "16.0.0"
+    "react-dom": "16.2.0",
+    "react": "16.2.0"
   },
   "devDependencies": {
-    "react-scripts": "1.0.0"
+    "react-scripts": "1.0.17"
   },
   "scripts": {
     "start": "react-scripts start",
